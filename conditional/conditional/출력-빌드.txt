@@ -1,0 +1,6 @@
+﻿오후 12:50에 빌드를 시작함...
+1>------ 빌드 시작: 프로젝트: conditional, 구성: Debug x64 ------
+1>  in_dec_op.c
+1>  conditional.vcxproj -> C:\Users\user\Desktop\c스터디\conditional\x64\Debug\conditional.exe
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 오후 12:50에 완료되었으며, 00.316 초이(가) 걸림 ==========
