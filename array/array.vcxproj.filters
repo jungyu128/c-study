@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="op-1.c">
+    <ClCompile Include="array-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="if-1.c">
+    <ClCompile Include="char-array-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="switch.c">
+    <ClCompile Include="2array-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\loop\array-1.c">
+    <ClCompile Include="char-array-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\loop\array-3.c">
+    <ClCompile Include="array-text2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
