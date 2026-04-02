@@ -21,5 +21,14 @@
     <ClCompile Include="pointer-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
